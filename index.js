@@ -477,7 +477,7 @@ function addMoviePageElements() {
 </div>`;
 }
 
-//MOvie added to favourite through movie page
+//Movie added to favourite through movie page
 function moviePageAddToFav() {
   let favIconContainer = event.target.parentElement;
   event.preventDefault();
